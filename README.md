@@ -59,7 +59,7 @@ Working paper, April 2026. Independent research; no institutional affiliation.
 
 The core noise-scaling predictions are falsifiable against existing datasets without new experiments. The Khanh et al. (2026) dataset (293 grokking training runs, arXiv:2603.13331) could be reanalyzed to test whether T_grok varies with effective noise amplitude when γ_eff is held fixed. The Xu et al. (2026) gradient avalanche data (arXiv:2604.04655) could be reanalyzed for starvation vs. cascade D-signature contrast.
 
-If you have access to grokking training infrastructure or large-model checkpoint data and are interested in running any of the five experiments, feel free to open an issue or reach out directly.
+If you have access to grokking training infrastructure or large-model checkpoint data and are interested in running any of the five experiments, feel free to open an issue or reach out directly on Reddit.  U/Few-Group6870
 
 ---
 
