@@ -160,7 +160,7 @@ Spectral model validation across C-function hierarchy: ratio 2.000 ± 0.010 acro
 
 Mindemann, M. (2026). *Recursive Substrate Theory: Viability Corridor Framework*. GitHub repository. https://github.com/mindamike/Training-Corridors
 
-For the archived deposit with DOI: [Zenodo link — pending]
+For the archived deposit with DOI: (https://doi.org/10.5281/zenodo.19718922)
 
 ---
 
