@@ -125,7 +125,7 @@ Training-Corridors/
 
 ---
 
-## Open problems (honest ledger)
+## Open problems 
 
 | Problem | Status |
 |---|---|
