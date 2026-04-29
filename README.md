@@ -67,13 +67,19 @@ The classification is **topological** — forced by the branch structure of the 
 
 ## Empirical anchors
 
-Three recent results from independent groups are argued to be corridor-boundary crossings seen from different measurement angles:
+The framework is not motivated post-hoc. These results from independent groups are structurally consistent with the corridor classification — each involves a system at or near a bifurcation boundary, with the character (continuous vs discontinuous, reversible vs irreversible) matching the topological prediction.
 
-**Grokking as dimensional phase transition** (Xu et al. 2026, arXiv:2604.04655) — gradient avalanche dimensionality D crosses from sub-diffusive (D < 1) to super-diffusive (D > 1) at grokking onset. Consistent with a starvation boundary crossing measured in gradient geometry.
+**Physical hierarchy validation** — The strongest internal result. The framework independently predicts the boundary type (TC or SN) for each of 6 non-trivial transitions across four levels of established physics (QED → Atomic → Chemistry → Thermodynamics). All 6 match, including several counter-intuitive assignments (e.g., ionization = SN starvation, not TC starvation). This is a structural prediction, not a fit. Source: Technical Summary §15.
 
-**Mythos-class capability jumps** (Carlini et al. 2026) — 90-fold improvement in autonomous exploit generation in a single model generation, unrequested by training. Consistent with a cascade boundary crossing where a new attractor set becomes accessible.
+**QCD conformal window** (Gursoy, Kuipers, Kuznetsov 2019 — independent peer-reviewed QFT) — Bifurcation analysis of QCD's RG flow finds a transcritical bifurcation at the upper window edge (Banks-Zaks fixed point) and a saddle-node at the lower edge. This is exactly the TC/SN corridor structure derived independently here. The conformal window is a viability corridor in coupling-space, not by analogy but by the same normal form classification theorem. The framework predicts the window width shrinks with quark mass as W(m_q) = W₀ − C₁·m_q^{1/3} − C₂·m_q^{2/3} — a falsifiable lattice QCD prediction not yet tested.
 
-**Causally active emotion vectors** (Sofroniew, Kauvar, Saunders et al. 2026) — 171 stable representational directions causally influencing behavior, inherited from pretraining. Consistent with post-transition attractor structures stabilized by high cross-layer coupling G.
+**BT points in RG flows** (Gukov 2016; Popov 2021 — peer-reviewed QFT) — Bogdanov-Takens bifurcations appear in RG flows for O(N), QED-3, and QCD-4. The BT point is the codimension-2 grammar node of the inheritance hierarchy in this framework, derived from first principles. Its appearance in the literal mathematics of quantum field theory is an independent confirmation that the classification structure is real, not a modeling choice.
+
+**AGN variability: 21,767 quasars** (Yu et al. 2022/2025) — ~75% of quasars fall into DHO Class C (overdamped damped harmonic oscillator, ξ > 1). The corridor framework identifies Class C as deep SN-well operation in an activity-resource system, with the two DHO timescales (τ_decay, τ_rise) encoding the TC and SN boundary distances respectively. The ξ D-independence (prefactor = 1.0000 analytically) is a parameter-free corridor prediction. Three forward predictions not tested by Yu et al.: ξ increases with M_BH within Class C; Class C fraction increases with M_BH; τ_decay/τ_rise ≈ 1 median (equal-barrier corridor center). Paper in preparation.
+
+**Grokking as dimensional phase transition** (Xu et al. 2026, arXiv:2604.04655) — Gradient avalanche dimensionality D_eff crosses from sub-diffusive to super-diffusive at grokking onset. Consistent with a TC (starvation) boundary crossing: the gradient field becomes higher-dimensional as internal coupling G approaches the bifurcation point, and the transition is continuous and reversible under regularization. Note: D_eff here is gradient field dimensionality, not the noise amplitude D in the Kramers scaling — these are distinct quantities.
+
+**Causally active representational structure** (Sofroniew, Kauvar, Saunders et al. 2026) — 171 stable representational directions in LLMs that causally influence behavior and are inherited from pretraining. Consistent with post-transition attractor structure: modes that become coherent once cross-layer coupling G is high enough to sustain them. The specific count (171) is not a corridor prediction, but the existence of a discrete set of inherited stable directions is structurally consistent with a system that has crossed a cascade boundary and stabilized into a new attractor.
 
 ---
 
@@ -125,7 +131,7 @@ Training-Corridors/
 
 ---
 
-## Open problems 
+## Open problems (honest ledger)
 
 | Problem | Status |
 |---|---|
